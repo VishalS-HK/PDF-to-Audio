@@ -1,4 +1,4 @@
-<h2><b>Requirements</b></h2>
+<h2><b>Requirements🛠️</b></h2>
 
 ~You need to download and install these Python modules in terminal with the help of pip to run it properly.
 
@@ -40,7 +40,7 @@ sudo apt install libespeak-dev
 
 </ol>
 
-~Finally, run the command in the terminal:
+~Finally, run this command in the terminal:
 ```
 python3 main.py
 ```
