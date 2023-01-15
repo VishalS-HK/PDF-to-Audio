@@ -3,7 +3,7 @@
 ~You need to download and install these Python modules in terminal with the help of pip to run it properly.
 
 ```
-pip install PyDictionary
+pip install PyPDF2
 ```
 
 
